@@ -4,7 +4,7 @@
 - Step 0.1, the number of pizza names: 243
 - Step 0.3, status code of the request without a token: HTTP/1.1 401 Unauthorized
 - Step 0.4, the name of your pizza: The Weak Carbonara
-- Step 0.12, results of the three runs without a session (optional): 
+- Step 0.12, results of the three runs without a session (optional): all test are fail.
 - Step 0.16, blocks of "how many of the three tools are excluded": 
   
 ## Defect report - Title: - Request: - Expected result: - Actual result: - Severity: 
