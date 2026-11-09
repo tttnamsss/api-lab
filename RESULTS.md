@@ -14,7 +14,8 @@
 - Actual result: Status code 500 Internal Server Error
 - Severity: Medium
   
-## Part A - Step A4, status codes when the other user reads, changes and deletes: 
+## Part A 
+- Step A4, status codes when the other user reads, changes and deletes: 
   
 ## Part B 
 1. 
