@@ -15,7 +15,10 @@
 - Severity: Medium
   
 ## Part A 
-- Step A4, status codes when the other user reads, changes and deletes: 
+- Step A4, status codes when the other user
+    - reads: 404
+    - changes: 400
+    - deletes: 400 
   
 ## Part B 
 1. 
